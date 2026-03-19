@@ -1,3 +1,5 @@
+![IceVault](https://i.postimg.cc/Dzd3KWDp/Gemini-Generated-Image-whz9bhwhz9bhwhz9-(1).png)
+
 # IceVault
 
 Local secret manager for developers. Store encrypted secrets in a vault and inject them as environment variables at runtime — secrets never touch disk in plaintext.
