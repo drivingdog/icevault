@@ -1,4 +1,4 @@
-![IceVault](https://i.postimg.cc/Dzd3KWDp/Gemini-Generated-Image-whz9bhwhz9bhwhz9-(1).png)
+![ICEVAULT](https://github.com/drivingdog/icevault/blob/ae22c79aefe09ae0abd7e48d3a067de8bb529af2/logo.png)
 
 # IceVault
 
